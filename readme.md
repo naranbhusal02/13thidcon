@@ -4,7 +4,7 @@
 
 This web-based app integrated multiple pages in a single website like glimpses, organizers and many more.
 
-**_ The homepage has a navbar with links to other pages like organizer, glimpses and other as well like shown below: _**
+**_The homepage has a navbar with links to other pages like organizer, glimpses and other as well like shown below:_**
 <img height="380" alt="Home-page" src="https://github.com/user-attachments/assets/5a7eabb7-fad7-4d1a-933d-b42f71c7d424" />
 
 
