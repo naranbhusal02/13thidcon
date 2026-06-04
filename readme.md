@@ -19,9 +19,9 @@ Have a Look:
 - Live Demo: [https://idcon.vercel.app](https://idcon.vercel.app)
 - Repo Link: [https://github.com/naranbhusal02/13thidcon](https://idcon.vercel.app)
 
-See preview of different pages:
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/c94ad3a7-eae2-48ff-aba5-55af254d2dd6" />
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/3fec09f5-b19e-4338-b6e0-fb25c35068ce" />
+See preview of different pages: <br>
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/c94ad3a7-eae2-48ff-aba5-55af254d2dd6" /> <br>
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/3fec09f5-b19e-4338-b6e0-fb25c35068ce" /> <br>
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/ba3c5d75-88ac-42a4-b93d-889561e7be66" />
 
 
