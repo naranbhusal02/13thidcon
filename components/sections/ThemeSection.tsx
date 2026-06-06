@@ -112,7 +112,7 @@ const ThemeSection = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12 pt-12 border-t border-accent/20">
             {[
               { label: "200+", value: "Attendees" },
-              { label: "20+", value: "Clubs" },
+              { label: "150+", value: "Clubs" },
               { label: "5+", value: "Speakers" },
               { label: "3", value: "Days" },
             ].map((stat) => (
